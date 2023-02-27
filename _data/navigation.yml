@@ -10,3 +10,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+docs:
+  - title: "Study"
+    children:
+      - title: "Spring/SpringBoot"
+        url: /tags/#spring
+  - title: "Algorithm"
+    children:
+      - title: "그리디"
+        url: /tags/#greedy
+      - title: "탐색"
+        url: /tags/#search
+      - title: "동적프로그래밍"
+        url: /tags/#dp
