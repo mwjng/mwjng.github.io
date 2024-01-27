@@ -23,7 +23,7 @@ name                     : "정민우"
 description              : "mwjng의 블로그 입니다."
 url                      : "https://mwjng.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "mwjng/mwjng.github.io"
 teaser                   : # "/assets/images/background.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Minu's Devlog" # overrides the website title displayed in the masthead, use " " for no title
