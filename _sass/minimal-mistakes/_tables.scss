@@ -16,6 +16,10 @@ table {
   }
 }
 
+code {
+  color: #DB4455;
+}
+
 thead {
   background-color: $border-color;
   border-bottom: 1px solid mix(#000, $border-color, 25%);
