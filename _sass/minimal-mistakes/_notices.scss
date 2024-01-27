@@ -58,7 +58,8 @@
   }
 
   code {
-    background-color: mix($background-color, $notice-color, $code-notice-background-mix)
+    background-color: mix($background-color, $notice-color, $code-notice-background-mix);
+    font-color:	#DB4455
   }
 
 	pre code {
