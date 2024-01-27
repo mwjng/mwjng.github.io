@@ -9,8 +9,8 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 @font-face {
-    font-family: 'hack';
-    src: url('https://cdnjs.cloudflare.com/ajax/libs/hack-font/3.3.0/web/fonts/hack-regular.woff') format('woff');
+    font-family: 'Noto Sans KR';
+    src: url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
     font-weight: normal;
     font-style: normal;
 }
