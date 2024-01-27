@@ -4,8 +4,6 @@
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
 */
 
-@import "minimal-mistakes/syntax_gruvbox.dark";
-
 /* Variables */
 @import "minimal-mistakes/variables";
 
@@ -30,7 +28,8 @@
 @import "minimal-mistakes/navigation";
 @import "minimal-mistakes/footer";
 @import "minimal-mistakes/search";
-@import "minimal-mistakes/syntax";
+@import "minimal-mistakes/syntax_gruvbox.dark";
+// @import "minimal-mistakes/syntax";
 
 /* Utility classes */
 @import "minimal-mistakes/utilities";
